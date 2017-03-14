@@ -2,6 +2,7 @@
 Scripts used for Mondon et al., 2017
 
 ## Aligning and calling SNPs
+* GBS_fastq_Demultiplexer_v9_2Enzyme2barcode.pl: Demultiplexing the raw fastq files into individual samples and trimming adapter sequence.
 * align_process.bash: Initial steps to trim raw data, align using nextgenmap, and format BAM files.
 * make_gcvf_gatk.bash: Realigning around indels and creating gvcf files.
 * Genotype_gvcf.sh: Genotyping gvcf files to create vcf.
