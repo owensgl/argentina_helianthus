@@ -1,5 +1,5 @@
 # argentina_helianthus
-Scripts used for Mondon et al., 2017
+Scripts used for "Gene flow in Argentinian sunflowers as revealed by genotyping by sequencing data"
 
 ## Aligning and calling SNPs
 * GBS_fastq_Demultiplexer_v9_2Enzyme2barcode.pl: Demultiplexing the raw fastq files into individual samples and trimming adapter sequence.
