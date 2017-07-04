@@ -9,8 +9,6 @@ Scripts used for Mondon et al., 2017
 * vcf2vertical_dep_GATK36_full.pl: Converts a vcf file to a flat tab separated genotype file.
 ## Analyses
 * hiest.R: HIest analysis and plotting.
-* SNPtable2argentina_diverged_loci.pl: Locates fixed differences between domestic and wild H. annuus and counts the percentage of domestic alleles in each sample.
-* domestication_alleles.R: Plotting of domestic allele counts.
 * PCA.R: PCA analysis with Argentina samples.
 * PCA_with_other_species.R: PCA analysis with Argentina and USA samples.
 * plot_ngsadmix.R: Plotting NGSadmix results.
